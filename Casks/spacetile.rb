@@ -1,6 +1,6 @@
 cask "spacetile" do
-  version "1.0.0"
-  sha256 "2aa917375ced4cdf987a8898fd47ef1a1f983507f98ae010a8458f77c900bca9"
+  version "1.1.0"
+  sha256 "cf1e1db7ffa9519db6421ea3e97e9c8ce8fc2f8edddbbf3c814004c2d379984e"
 
   url "https://updates.spacetile.app/Spacetile-#{version}.dmg"
   name "Spacetile"
